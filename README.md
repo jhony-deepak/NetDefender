@@ -1,4 +1,4 @@
----
+
 
 ## 🧠 How It Works (System Architecture)
 
@@ -15,7 +15,7 @@ NetDefender runs a real-time packet sniffer (`sniffer.py`) using `scapy` to moni
 - Displays it live in the dashboard using Chart.js
 - Tracks all alerts in both `alerts.csv` and `alerts.txt`
 
----
+
 
 ## 🧬 NetDefender Architecture (With Network & Security Layers)
 
